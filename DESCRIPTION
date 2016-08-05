@@ -15,13 +15,13 @@ Description: Interactive visualizations for profiling R code.
 Depends:
     R (>= 3.0)
 Imports:
-    htmlwidgets (>= 0.3.2),
-    stringr
+    htmlwidgets (>= 0.3.2)
 License: GPL-3 | file LICENSE
 Suggests:
     knitr,
     ggplot2,
     rmarkdown,
+    stringr,
     testthat
 RoxygenNote: 5.0.1
 URL: https://rstudio.github.io/profvis/
